@@ -1,1 +1,8 @@
+
 welcome to github! working on branches
+
+welcome to devops
+add()
+{
+system.out.println("add funcgtion");
+}
